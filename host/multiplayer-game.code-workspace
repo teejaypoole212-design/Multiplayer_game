@@ -1,0 +1,8 @@
+{
+    "folders": [
+        { "name": "shared", "path": "." },
+        { "name": "client", "path": "client" },
+        { "name": "host", "path": "host" }
+    ],
+    "settings": {}
+}
